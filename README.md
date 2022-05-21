@@ -8,7 +8,7 @@ I am a 2nd year student in Marmara University Computer Engineering program. I le
 
 * 🌍  I'm based in Istanbul/Turkey.
 * ✉️  You can contact me at [melih\_afsar@hotmail.com.tr](mailto:melih_afsar@hotmail.com.tr)
-* 🧠  I'm learning CSS3 and JavaScript. I'm thinking of learning Kotlin, Docker, Kubernetes, .NET Core.
+* 🧠  I'm learning CSS3 and JavaScript. I'm thinking of learning Kotlin, React Native, Docker, Kubernetes, .NET Core.
 
 ### Skills
 
