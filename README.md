@@ -40,3 +40,6 @@ I am a 2nd year student in Marmara University Computer Engineering program. I le
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/MelihAfsar/Factory-Personnel-Payroll-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MelihAfsar&repo=Factory-Personnel-Payroll-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MelihAfsar/Smart-Camera" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MelihAfsar&repo=Smart-Camera&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MelihAfsar&label=Profile Views&color=yellow&style=flat" alt="MelihAfsar" /> </p>
